@@ -28,8 +28,8 @@
 
 5. Entailment
 
-![alt text]()
+![alt text](https://github.com/tamanna-mehta/cmpe-297/blob/main/hw-3/screenshots/entailment.png)
 
-![alt text]()
+
 
 
