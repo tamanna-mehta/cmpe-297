@@ -1,6 +1,6 @@
 # Fine Tuning tasks with Pretrained Text Models
 
-1. Text classifcation
+1. Text classification
 
 
  ![alt text](https://github.com/tamanna-mehta/cmpe-297/blob/main/hw-3/screenshots/Sentiment_classification.png)
@@ -10,9 +10,9 @@
 
 2. Grammartical check 
 
-![alt text](https://github.com/tamanna-mehta/cmpe-297/blob/main/hw-3/screenshots/Sentiment_classification.png)
+![alt text](https://github.com/tamanna-mehta/cmpe-297/blob/main/hw-3/screenshots/Grammar.png)
 
-![alt text](https://github.com/tamanna-mehta/cmpe-297/blob/main/hw-3/screenshots/Sentiment_classification.png)
+![alt text](https://github.com/tamanna-mehta/cmpe-297/blob/main/hw-3/screenshots/grammar%20gradio.png)
 
 3. NER
 
