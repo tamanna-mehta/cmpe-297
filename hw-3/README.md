@@ -28,8 +28,8 @@
 
 5. Entailment
 
-![alt text](https://github.com/tamanna-mehta/cmpe-297/blob/main/hw-3/screenshots/Sentiment_classification.png)
+![alt text]()
 
-![alt text](https://github.com/tamanna-mehta/cmpe-297/blob/main/hw-3/screenshots/Sentiment_classification.png)
+![alt text]()
 
 
