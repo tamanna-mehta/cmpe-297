@@ -2,11 +2,33 @@
 
 1. Text classifcation
 
- ![alt text](https://github.com/tamanna-mehta/cmpe-297/blob/main/hw-3/screenshots/Sentiment_classification.png)
 
-3. Grammartical check 
-4. NER
-5. Question Answering
-6. Entailment
+ ![alt text](https://github.com/tamanna-mehta/cmpe-297/blob/main/hw-3/screenshots/Sentiment_classification.png)
+ 
+ 
+ ![alt text](https://github.com/tamanna-mehta/cmpe-297/blob/main/hw-3/screenshots/sentiment_classifciation_gradio.png)
+
+2. Grammartical check 
+
+![alt text](https://github.com/tamanna-mehta/cmpe-297/blob/main/hw-3/screenshots/Sentiment_classification.png)
+
+![alt text](https://github.com/tamanna-mehta/cmpe-297/blob/main/hw-3/screenshots/Sentiment_classification.png)
+
+3. NER
+
+![alt text](https://github.com/tamanna-mehta/cmpe-297/blob/main/hw-3/screenshots/Sentiment_classification.png)
+
+![alt text](https://github.com/tamanna-mehta/cmpe-297/blob/main/hw-3/screenshots/Sentiment_classification.png)
+
+4. Question Answering
+
+![alt text](https://github.com/tamanna-mehta/cmpe-297/blob/main/hw-3/screenshots/Sentiment_classification.png)
+
+![alt text](https://github.com/tamanna-mehta/cmpe-297/blob/main/hw-3/screenshots/Sentiment_classification.png)
+
+5. Entailment
+![alt text](https://github.com/tamanna-mehta/cmpe-297/blob/main/hw-3/screenshots/Sentiment_classification.png)
+
+![alt text](https://github.com/tamanna-mehta/cmpe-297/blob/main/hw-3/screenshots/Sentiment_classification.png)
 
 
