@@ -1,7 +1,8 @@
 
-## Short Story Assignment
 
-### Self-Supervised Visual Feature Learning with Deep Neural Networks: A Survey
+## Self-Supervised Visual Feature Learning with Deep Neural Networks: A Survey
+
+![alt text] https://github.com/tamanna-mehta/cmpe-297/blob/main/Short%20Story%20Assignment/Screen%20Shot%202021-11-24%20at%2012.33.39%20AM.png
 
 **Research paper**-https://arxiv.org/pdf/1902.06162.pdf
 
