@@ -7,4 +7,4 @@
 
 **Medium article**-https://tamanna-mehta.medium.com/self-supervised-visual-feature-learning-with-deep-neural-networks-a-survey-a740b3a7fefe
 
-**Video**-
+**Video**-https://drive.google.com/drive/folders/1yvINVu-WHm1HFKapiED1U0r2as_HFB04
